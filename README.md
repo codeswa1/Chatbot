@@ -4,7 +4,7 @@ A simple **rule-based chatbot** built in Python using the **NLTK** library. This
 
 ---
 
-## ✨ Features
+##  Features
 - Responds to greetings (`hi`, `hello`, etc.)  
 - Answers simple questions (name, creator, location, etc.)  
 - Handles apologies, age queries, and casual chat  
@@ -13,7 +13,7 @@ A simple **rule-based chatbot** built in Python using the **NLTK** library. This
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 Make sure you have Python installed (>=3.7).  
 Install the required library:
 
